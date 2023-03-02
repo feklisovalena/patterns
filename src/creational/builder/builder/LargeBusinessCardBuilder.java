@@ -1,4 +1,4 @@
-package builder.builder;
+package creational.builder.builder;
 
 public class LargeBusinessCardBuilder extends BusinessCardBuilder {
 

@@ -1,4 +1,4 @@
-package chain;
+package behavioral.chain;
 
 public class Priority {
     public final static int ROUTINE = 1;

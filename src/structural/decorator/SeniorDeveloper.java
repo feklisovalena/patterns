@@ -1,4 +1,4 @@
-package decorator;
+package structural.decorator;
 
 public class SeniorDeveloper extends DeveloperDecorator {
     public SeniorDeveloper(Developer developer) {

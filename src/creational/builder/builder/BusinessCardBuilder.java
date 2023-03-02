@@ -1,4 +1,4 @@
-package builder.builder;
+package creational.builder.builder;
 
 public abstract class BusinessCardBuilder {
     private BusinessCard card;

@@ -1,4 +1,4 @@
-package chain;
+package behavioral.chain;
 
 public abstract class Notifier {
     private int priority;
