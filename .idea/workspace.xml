@@ -1,34 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7d497855-de64-488c-b006-6d3012f16a00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ClickListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/Observable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ComplexCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComplexCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComplexNumberFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IComplexNumberFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogComplexCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogComplexNumberFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loggable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder/builder/BusinessCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/builder/BusinessCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder/builder/BusinessCardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/builder/BusinessCardBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder/builder/LargeBusinessCardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/builder/LargeBusinessCardBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder/builder/SmallBusinessCardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/builder/SmallBusinessCardBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chain/EmailNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/EmailNotifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chain/Notifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/Notifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chain/Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/Priority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chain/SMSNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/SMSNotifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chain/SimpleNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/SimpleNotifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decorator/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/Developer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decorator/DeveloperDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/DeveloperDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decorator/SeniorDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/SeniorDeveloper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decorator/SigleDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/SigleDeveloper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/SingleResourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/SingleResourse.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,31 +34,44 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/feklisovalena/patterns.git",
+    "accountId": "d9e16324-c745-4e9f-bc61-21a315a4f39f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2HuXthZLcIl9EbqUSuYP8RDaDL3" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/behavioral/observer" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\aktyb\ideaProject\patterns1\src\behavioral\observer" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="creational.builder.Main" />
       <module name="patterns1" />
@@ -111,12 +113,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -129,11 +138,12 @@
       <updated>1669136158556</updated>
       <workItem from="1669136161607" duration="5020000" />
       <workItem from="1677783185407" duration="229000" />
+      <workItem from="1714725531272" duration="2227000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
